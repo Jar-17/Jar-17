@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Jar-17
 - 👀 I’m interested in analyzation for sports (especially basesball) 
-- 🌱 I’m currently learning basic c,c++,c#
+- 🌱 I’m currently learning basic c,c++,python
 - 📫 You could reach me with email fubon920831@gmail.com
  
 
